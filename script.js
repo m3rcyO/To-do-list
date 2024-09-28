@@ -31,8 +31,6 @@ function addTask() {
 
         listItems.appendChild(li)
 
-       
-        input.value = '';
     }
 }
 
