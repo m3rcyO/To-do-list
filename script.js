@@ -30,7 +30,7 @@ function addTask() {
         li.appendChild(deleteBtn)
 
         listItems.appendChild(li)
-
+         input.value = ''
     }
 }
 
